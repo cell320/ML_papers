@@ -1,0 +1,21 @@
+[
+    {
+        "title": "ArXiv Query: search_query=&id_list=1706.03762&start=0&max_results=10",
+        "authors": [
+            "Ashish Vaswani",
+            "Noam Shazeer",
+            "Niki Parmar",
+            "Jakob Uszkoreit",
+            "Llion Jones",
+            "Aidan N. Gomez",
+            "Lukasz Kaiser",
+            "Illia Polosukhin"
+        ],
+        "year": 2017,
+        "tags": [
+            "arXiv"
+        ],
+        "file_path": "/home/tarx/ML_papers/scripts/../papers/arXiv/ArXiv_Query:_search_query=&id_list=1706.03762&start=0&max_results=10.pdf",
+        "notes_path": "/home/tarx/ML_papers/scripts/../notes/arXiv/ArXiv_Query:_search_query=&id_list=1706.03762&start=0&max_results=10.md"
+    }
+]
