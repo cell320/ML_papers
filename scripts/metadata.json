@@ -1,6 +1,6 @@
 [
     {
-        "title": "ArXiv Query: search_query=&id_list=1706.03762&start=0&max_results=10",
+        "title": "Attention Is All You Need",
         "authors": [
             "Ashish Vaswani",
             "Noam Shazeer",
@@ -12,10 +12,27 @@
             "Illia Polosukhin"
         ],
         "year": 2017,
+        "url": "https://arxiv.org/pdf/1706.03762.pdf",
         "tags": [
             "arXiv"
         ],
-        "file_path": "/home/tarx/ML_papers/scripts/../papers/arXiv/ArXiv_Query:_search_query=&id_list=1706.03762&start=0&max_results=10.pdf",
-        "notes_path": "/home/tarx/ML_papers/scripts/../notes/arXiv/ArXiv_Query:_search_query=&id_list=1706.03762&start=0&max_results=10.md"
+        "file_path": "/home/tarx/ML_papers/scripts/../papers/arXiv/Attention_Is_All_You_Need.pdf",
+        "notes_path": "/home/tarx/ML_papers/scripts/../notes/arXiv/Attention_Is_All_You_Need.md"
+    },
+    {
+        "title": "Self-Normalizing Neural Networks",
+        "authors": [
+            "G\u00fcnter Klambauer",
+            "Thomas Unterthiner",
+            "Andreas Mayr",
+            "Sepp Hochreiter"
+        ],
+        "year": 2017,
+        "url": "https://arxiv.org/pdf/1706.02515.pdf",
+        "tags": [
+            "arXiv"
+        ],
+        "file_path": "/home/tarx/ML_papers/scripts/../papers/arXiv/Self-Normalizing_Neural_Networks.pdf",
+        "notes_path": "/home/tarx/ML_papers/scripts/../notes/arXiv/Self-Normalizing_Neural_Networks.md"
     }
 ]

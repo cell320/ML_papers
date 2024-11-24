@@ -1,4 +1,5 @@
 # Papers Repository
 
 ## Papers List
-- [ArXiv Query: search_query=&id_list=1706.03762&start=0&max_results=10](/home/tarx/ML_papers/scripts/../papers/arXiv/ArXiv_Query:_search_query=&id_list=1706.03762&start=0&max_results=10.pdf) (2017)
+- [Attention Is All You Need](/home/tarx/ML_papers/scripts/../papers/arXiv/Attention_Is_All_You_Need.pdf) (2017)
+- [Self-Normalizing Neural Networks](/home/tarx/ML_papers/scripts/../papers/arXiv/Self-Normalizing_Neural_Networks.pdf) (2017)
