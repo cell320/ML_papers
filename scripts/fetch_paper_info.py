@@ -12,8 +12,6 @@ METADATA_FILE = os.path.join(SCRIPT_DIR, "metadata.json")
 
 
 def fetch_arxiv_info(arxiv_url):
-    import requests
-    from bs4 import BeautifulSoup
 
     arxiv_id = arxiv_url.split("/")[-1]  # 提取 arXiv ID
     arxiv_api_url = f"http://export.arxiv.org/api/query?id_list={arxiv_id}"  # 构建 API 查询 URL
@@ -22,7 +20,7 @@ def fetch_arxiv_info(arxiv_url):
     if response.status_code != 200:
         raise Exception("Failed to fetch data from arXiv API.")
 
-    soup = BeautifulSoup(response.text, "lxml-xml")
+    soup = BeautifulSoup(response.text, 2"lxml-xml")
 
     # 确保从 <entry> 中提取标题，而不是从 <feed>
     entry = soup.find("entry")

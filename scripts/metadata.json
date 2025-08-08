@@ -34,5 +34,35 @@
         ],
         "file_path": "/home/tarx/ML_papers/scripts/../papers/arXiv/Self-Normalizing_Neural_Networks.pdf",
         "notes_path": "/home/tarx/ML_papers/scripts/../notes/arXiv/Self-Normalizing_Neural_Networks.md"
+    },
+    {
+        "title": "A mathematical perspective on Transformers",
+        "authors": [
+            "Borjan Geshkovski",
+            "Cyril Letrouit",
+            "Yury Polyanskiy",
+            "Philippe Rigollet"
+        ],
+        "year": 2023,
+        "url": "https://arxiv.org/pdf/2312.10794.pdf",
+        "tags": [
+            "arXiv"
+        ],
+        "file_path": "/home/tarx/ML_papers/scripts/../papers/arXiv/A_mathematical_perspective_on_Transformers.pdf",
+        "notes_path": "/home/tarx/ML_papers/scripts/../notes/arXiv/A_mathematical_perspective_on_Transformers.md"
+    },
+    {
+        "title": "Three Decades of Activations: A Comprehensive Survey of 400 Activation Functions for Neural Networks",
+        "authors": [
+            "Vladim\u00edr Kunc",
+            "Ji\u0159\u00ed Kl\u00e9ma"
+        ],
+        "year": 2024,
+        "url": "https://arxiv.org/pdf/2402.09092.pdf",
+        "tags": [
+            "arXiv"
+        ],
+        "file_path": "/home/tarx/Documents/ML_papers/scripts/../papers/arXiv/Three_Decades_of_Activations:_A_Comprehensive_Survey_of_400_Activation_Functions_for_Neural_Networks.pdf",
+        "notes_path": "/home/tarx/Documents/ML_papers/scripts/../notes/arXiv/Three_Decades_of_Activations:_A_Comprehensive_Survey_of_400_Activation_Functions_for_Neural_Networks.md"
     }
 ]

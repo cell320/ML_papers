@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# 激活 Conda 环境
+if [ -f ~/anaconda3/etc/profile.d/conda.sh ]; then
+    source ~/anaconda3/etc/profile.d/conda.sh
+else
+    echo "Conda not found. Please check your Conda installation."
+    exit 1
+fi
+
+# 激活指定的 Conda 环境
+conda activate common
+if [ $? -ne 0 ]; then
+    echo "Failed to activate Conda environment 'common'. Please check if the environment exists."
+    exit 1
+fi
+
+# 运行 fetch_paper_info.py 脚本
+python /home/tarx/ML_papers/scripts/fetch_paper_info.py
